@@ -3,13 +3,13 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-<!--    Bottom Bar      -->
+    <!--    Bottom Bar      -->
 
     <string name="item_horoscope">Horoscope</string>
     <string name="item_luck">Luck</string>
     <string name="item_palmistry">Palmistry</string>
 
-<!--    Horoscopos      -->
+    <!--    Horoscopos      -->
 
     <string name="aries">Aries</string>
     <string name="taurus">Taurus</string>
