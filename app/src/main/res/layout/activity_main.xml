@@ -23,7 +23,7 @@
             android:fontFamily="@font/dancingscript_regular"
             android:text="@string/app_name"
             android:textColor="@color/colorSecondary"
-            android:textSize="25sp"
+            android:textSize="22sp"
             android:textStyle="bold" />
 
 

@@ -1,4 +1,4 @@
-package com.felipelozano.horoscopoapp.ui.home
+package com.felipelozano.horoscopoapp
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
